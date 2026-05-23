@@ -19,3 +19,4 @@ wp-content/themes/twentytwenty*
 wp-includes/
 license.txt
 readme.html
+wp-content/uploads/*
